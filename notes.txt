@@ -1,1 +1,36 @@
---- Notes related to machine learning ---
+--- Notes related to machine learning algorithms ---
+I will start with these 5 main topics and will delve into various variants
+
+1. Q-Learning
+    - Tabular Q-Learning
+    - Deep Q-Learning
+    - Prioritized Experience Replay
+
+2. Deep Q-Network (DQN)
+    - Standard DQN
+    - Double DQN (DDQN)
+    - Dueling DQN
+    - Rainbow DQN
+    - Noisy DQN
+
+3. Policy Gradient Methods
+    - Vanilla Policy Gradient (VPG)
+    - Trust Region Policy Optimization (TRPO)
+    - Soft Actor-Critic (SAC)
+    - REINFORCE
+
+4. Actor Critic Methods
+    - Basic Actor Critic
+    - Advantage Actor-Critic (A2C)
+    - Asynchronous Advantage Actor-Critic (A3C)
+    - Deep Deterministic Policy Gradient (DDPG)
+    - Twin Delayed DDPG (TD3)
+    - Soft Actor-Critic (SAC)
+
+5. Proximal Policy Optimization (PPO)
+    - Standard PPO
+
+6. Model-Based RL
+    - Dyna-Q
+    - Model Predictive Control (MPC)
+    - World Models
