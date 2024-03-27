@@ -1,0 +1,10 @@
+Link to gym game page
+https://gymnasium.farama.org/environments/mujoco/pusher/
+
+Link to pusher util
+https://github.com/google-deepmind/mujoco
+
+Link to gym util
+https://github.com/Farama-Foundation/Gymnasium
+
+
